@@ -7,7 +7,7 @@
       <meta charset="utf-8">
       <title>Travay mvc avec Role</title>
       <head>
-        <body>
+        <body background="red">
           <h1>Roles</h1>
           <h2>lister</h2>
 
